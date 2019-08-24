@@ -1,0 +1,3 @@
+this is a test
+my name is jiandong.zhang
+It is my computer with git bash test
